@@ -11,7 +11,7 @@ In the example include how to use Reactjs with Reduxjs.
 	'db_user' => 'root',
 	'db_pass' => '12',
 	'db_name' => 'wordpress'
-);```
+
 - On Console run npm install 
 - If you change any code Reactjs code, to build the js run following command 'npm run build'
 - To access to page access following url:
