@@ -15,7 +15,7 @@ In the example include how to use Reactjs with Reduxjs.
 - On Console run npm install 
 - If you have make any changes to Reactjs code, you need to build the js by run following command 'npm run build'
 - To access to page access following url:
-    ```http://localhost/index.php?t=1 
+```http://localhost/index.php?t=1 
 - For insert new Questions & Answers uncomment file App.js located in 'src/js/reactjs/components/App.js' on line number 11 and comment out line 12.
 ```http://localhost/index.php?t=2 
 ```http://localhost/index.php?t=3
