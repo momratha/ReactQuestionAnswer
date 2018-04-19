@@ -1,0 +1,17 @@
+.body-content-wrapper {
+    padding-top: 20px;
+    .slider{ 
+        .carousel-inner{
+            width:100%;
+            height: 350px !important;
+            background-color: $primary_grey_box !important;
+        }
+    }
+    .head-label {
+        color: $primary-white-label;
+        text-align: center;
+    }
+    .paragraph {
+        color: $primary-white-label;
+    }
+}

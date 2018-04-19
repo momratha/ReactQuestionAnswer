@@ -1,0 +1,24 @@
+.head-content-wrapper {
+   width: $head_content_width;
+
+    .square-box {
+        background-color: $primary_grey_box;
+        width:50px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        color: $primary_grey_label;
+        font-size: 2em;
+        font-weight: bold;
+    }
+    .project-container {
+        height: 50px;
+        .project-label {
+            line-height: 50px;
+            font-size: 2em;
+            text-transform: uppercase;
+            color: $primary_white_label;
+            font-size: 18px;
+        }
+    }
+}

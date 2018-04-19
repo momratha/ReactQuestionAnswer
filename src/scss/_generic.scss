@@ -1,0 +1,12 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font: 100% $primary-font;
+    background-color:#1a1a1a;
+}
+.content-wrapper {
+    width: $site_width;
+    margin: 0 auto;
+}

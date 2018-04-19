@@ -1,0 +1,12 @@
+//@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+//@import "bootstrap-mincer";
+//@import "bootstrap"; 
+//@import "vendor/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss";
+@import "_variables.scss";
+@import "_generic.scss";
+@import "site/_base.scss";
+
+
+body {
+    background-color: #fff;
+}

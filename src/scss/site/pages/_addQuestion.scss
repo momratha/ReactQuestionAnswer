@@ -1,0 +1,19 @@
+#add-question {
+  .enter-question-container, .answers-list-container {
+    .list-group {
+      label {
+        margin-top: 30px;
+      }
+      .list-group-item {
+        padding: 0px;
+        border: none;
+        margin-bottom: 10px;
+      }
+    }
+  }
+  input[type="text"] {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+  }
+}
